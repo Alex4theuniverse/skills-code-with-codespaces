@@ -6,5 +6,5 @@
 
 
     "remoteUser": "codespace",
-    "overraidCommand": false
+    "overrideCommand": false
 }
